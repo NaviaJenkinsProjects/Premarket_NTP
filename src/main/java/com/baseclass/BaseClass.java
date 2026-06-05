@@ -36,7 +36,6 @@ public class BaseClass {
             ChromeOptions options = new ChromeOptions();
             options.setPageLoadStrategy(PageLoadStrategy.EAGER);
 
-
 //            System.out.println("Running in Headless Mode");
 //
 //            options.addArguments("--headless=new");
