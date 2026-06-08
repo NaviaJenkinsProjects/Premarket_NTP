@@ -26,7 +26,7 @@ Scenario: User Check  - Stock- functionality
 
 Scenario: User Check The Basket - CREATE - functionality
 
-When Navigate to home page   
+When Navigate To Home Page  
 And User MouseOver Dashboard and Click Tools button
 And User Click The Basket button
 And User Click The Tools Add Bseket button
